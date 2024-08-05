@@ -1,7 +1,6 @@
 # チケット料金モデリング
 
-https://cinemacity.co.jp/ticket/
-↑ を元に実装
+https://cinemacity.co.jp/ticket/を元に実装
 
 元ツイート https://twitter.com/j5ik2o/status/1150589065432952832
 
